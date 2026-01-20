@@ -144,15 +144,6 @@ O ambiente sobe:
 
 ---
 
-## Evoluções Futuras
-
-* Implementação de autenticação com Keycloak
-* Criação de consumidor do evento
-* Monitoramento com CloudWatch
-* Pipeline CI/CD com Jenkins
-
----
-
 ## Considerações Finais
 
 Essa POC foi construída com foco em reforço de estudos pessoais com **clareza, boas práticas e entendimento de fluxo**, representando um cenário realista de um contexto de microsserviços.
