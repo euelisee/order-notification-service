@@ -9,6 +9,7 @@ target/
 *.db
 
 ### IntelliJ IDEA ###
+.mvn/
 .idea/
 *.iws
 *.iml

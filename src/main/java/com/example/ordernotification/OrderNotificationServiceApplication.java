@@ -1,4 +1,4 @@
-package com.example.order_notification_service;
+package com.example.ordernotification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

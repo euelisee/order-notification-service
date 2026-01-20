@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.order-notification-service' is invalid and this project uses 'com.example.order_notification_service' instead.
+* The original package name 'com.example.order-notification-service' is invalid and this project uses 'com.example.ordernotification' instead.
 
 # Getting Started
 
