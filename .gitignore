@@ -1,0 +1,46 @@
+### Java & Maven ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.ctxt
+.mtj.tmp/
+*.db
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/resources/archetype-resources/google-services.json
+
+### VS Code ###
+.vscode/
+*.code-workspace
+.history/
+.factorypath
+
+### Terraform ###
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+
+### Docker & Environment ###
+.env
+docker/db_data/
+log/
+*.log
+
+### OS Specific ###
+.DS_Store
+Thumbs.db
+desktop.ini
